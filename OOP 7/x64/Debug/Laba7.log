@@ -1,0 +1,19 @@
+﻿  Laba7.cpp
+C:\Users\skory\source\repos\Laba7\Laba7.cpp(22,28): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\skory\source\repos\Laba7\Laba7.cpp(23,28): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+C:\Users\skory\source\repos\Laba7\Laba7.cpp(24,28): warning C4305: аргумент: усечение из "double" в "const T"
+          with
+          [
+              T=float
+          ]
+  pair.cpp
+  Создание кода...
+  Laba7.vcxproj -> C:\Users\skory\source\repos\Laba7\x64\Debug\Laba7.exe
