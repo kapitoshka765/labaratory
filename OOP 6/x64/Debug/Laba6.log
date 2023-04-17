@@ -1,0 +1,5 @@
+﻿  Laba6.cpp
+  List.cpp
+C:\Users\skory\source\repos\Laba6\List.cpp(5,99): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Laba6.vcxproj -> C:\Users\skory\source\repos\Laba6\x64\Debug\Laba6.exe
